@@ -31,7 +31,7 @@ usage() {
     echo "  <agent>     Install skill and commands for this code agent"
     echo "              Available agents: claude, codex, opencode"
     echo "  <project>   Install skills and commands for this project"
-    echo "              Available projects: iproute, kernel, systemd, u-boot"
+    echo "              Available projects: iproute, kernel, systemd, u-boot, optee"
     echo ""
     echo "Options:"
     echo "  -h, --help  Show this help message and exit"
